@@ -1,0 +1,1 @@
+# ionic-cordova-photo-gallery
